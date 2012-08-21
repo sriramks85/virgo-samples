@@ -1,0 +1,5 @@
+#surefire
+#Wed Aug 22 00:28:22 IST 2012
+user.dir=/host/Users/admin/git/virgo-samples-greenpages/solution/thirdparty/hibernate-commons-annotations
+localRepository=/home/sriramks/.m2/repository
+basedir=/host/Users/admin/git/virgo-samples-greenpages/solution/thirdparty/hibernate-commons-annotations
